@@ -12,7 +12,7 @@ $ npm install react-native-distribute-bar-chart
 ## How To Use
 ```
   import React from 'react';
-  import { EventTypeDistrCharts } from 'distribute-proportion-bar-chart';
+  import { EventTypeDistrCharts } from 'react-native-distribute-bar-chart';
   
   const ScrubbingStat = (props) => {
     const data = [
