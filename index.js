@@ -1,3 +1,3 @@
-import EventTypeDistrCharts from './EventTypeDistrCharts';
+import EventTypeDistrCharts from 'EventTypeDistrCharts';
 
 export default EventTypeDistrCharts;
