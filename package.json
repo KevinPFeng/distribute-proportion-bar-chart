@@ -1,6 +1,6 @@
 {
   "name": "react-native-distribute-bar-chart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Horizontal bar chart of distribution proportion of different types",
   "main": "index.js",
   "scripts": {
