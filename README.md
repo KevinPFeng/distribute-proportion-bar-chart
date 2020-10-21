@@ -2,7 +2,7 @@
 Horizontal bar chart of distribution proportion of different types
 
 ## Screenshots
-![Effect diagram](https://raw.githubusercontent.com/KevinPFeng/distribute-proportion-bar-chart/master/images/distribute-bar-chart.png)
+![](./demo.png)
 
 ## How To Install
 ```
