@@ -16,12 +16,12 @@ $ npm install react-native-distribute-bar-chart
   
   const ScrubbingStat = (props) => {
     const data = [
-      {name: 'UDP Flood', value: 70},
-      {name: 'ACK Flood', value: 55},
-      {name: 'SYN Flood', value: 42},
-      {name: 'ICMP Flood', value: 19},
-      {name: 'others', value: 15},
-      {name: 'Connection Flood', value: 6}
+      {name: 'type1', value: 70},
+      {name: 'type2', value: 55},
+      {name: 'type3', value: 42},
+      {name: 'type4', value: 19},
+      {name: 'type5', value: 15},
+      {name: 'type6', value: 6}
     ];
     
     return (
